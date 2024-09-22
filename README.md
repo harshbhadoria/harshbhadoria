@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/efabcb05-7d11-497e-8b50-acba9aed6782) <br>
-# 🏴‍☠️ About Me:
+#![image](https://github.com/user-attachments/assets/73db2e66-18e5-41dd-9513-6b23ab74421d)
+ 🏴‍☠️ About Me:
 👒 Hi, I’m Harsh<br>👀A Shipwright﹏𓊝﹏ of Code with a passion for designing and front-ending development.<br>🌱Currently,Mastering ReactJS, one line at a time, to become a Yonko of Code.<br>💞️Collaborating on an Integrated Smart Parking System, a treasure to revolutionize parking.<br>🧭 How to reach me.... Don't Need It.<br>😄  Pronouns: Walmart/Alibaba (because why not, right?)<br>⚡Fun fact: Coding with the dark power of the Devil Fruit ❦︎, debugging reality one line at a time. Searching for the One Piece of code to change the world!<br>![image](https://github.com/user-attachments/assets/bdd37221-760d-4bc4-a61b-d718adbc3f30)
 
 
