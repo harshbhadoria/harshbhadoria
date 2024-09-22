@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/efabcb05-7d11-497e-8b50-acba9aed6782" alt="Image description" width="100" height="100"><br>
-🏴‍☠️ About Me:
+🏴‍☠️ About Me: <br>
 👒 Hi, I’m Harsh<br>👀A Shipwright﹏𓊝﹏ of Code with a passion for designing and front-ending development.<br>🌱Currently,Mastering ReactJS, one line at a time, to become a Yonko of Code.<br>💞️Collaborating on an Integrated Smart Parking System, a treasure to revolutionize parking.<br>🧭 How to reach me.... Don't Need It.<br>😄  Pronouns: Walmart/Alibaba (because why not, right?)<br>⚡Fun fact: Coding with the dark power of the Devil Fruit ❦︎, debugging reality one line at a time. Searching for the One Piece of code to change the world!<br><img src="https://github.com/user-attachments/assets/8b7782d9-1d70-4226-8258-8ca2b8ea0d7a" alt="Image description" width="100" height="100"> <img src="https://github.com/user-attachments/assets/7f3abf92-0528-4d27-86b7-48267bd6e21b" alt="Image description" width="100" height="100">  <img src="https://github.com/user-attachments/assets/11b2ba14-1f49-4433-81dd-1c69b8c447f4" alt="Image description" width="100" height="100">  <img src="https://github.com/user-attachments/assets/33dd7390-6830-4eda-8f61-3634615c7eff" alt="Image description" width="100" height="100">  <img src="https://github.com/user-attachments/assets/9bfcc519-e99b-4542-a127-f0f88fd28d34" alt="Image description" width="100" height="100">  <img src="https://github.com/user-attachments/assets/6cf47319-7ab5-4966-b62c-1464e368decf" alt="Image description" width="100" height="100">
 
 
@@ -24,7 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=harshbhadoria&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![image](https://github.com/user-attachments/assets/37a2c449-2125-4f59-93c9-ea941e06bd1d)![image](https://github.com/user-attachments/assets/7b801b92-3f90-43c0-a917-737420fcb2bc)![image](https://github.com/user-attachments/assets/d27be9a4-8348-48b3-a7e4-d63e5a66024f)
+ <img src="https://github.com/user-attachments/assets/37a2c449-2125-4f59-93c9-ea941e06bd1d" alt="Image description" width="100" height="100"> <img src="https://github.com/user-attachments/assets/7b801b92-3f90-43c0-a917-737420fcb2bc" alt="Image description" width="100" height="100"> <img src="https://github.com/user-attachments/assets/d27be9a4-8348-48b3-a7e4-d63e5a66024f" alt="Image description" width="100" height="100">
 
 
 
