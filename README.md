@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/efabcb05-7d11-497e-8b50-acba9aed6782) <br>
 # 🏴‍☠️ About Me:
-👒 Hi, I’m Harsh<br>👀A Shipwright﹏𓊝﹏ of Code with a passion for designing and front-ending development.<br>🌱Currently,Mastering ReactJS, one line at a time, to become a Yonko of Code.<br>💞️Collaborating on an Integrated Smart Parking System, a treasure to revolutionize parking.<br>🧭 How to reach me.... Don't Need It.<br>😄  Pronouns: Walmart/Alibaba (because why not, right?)<br>⚡Fun fact: Coding with the dark power of the Devil Fruit ❦︎, debugging reality one line at a time. Searching for the One Piece of code to change the world!<br>[![image](https://github.com/user-attachments/assets/bdd37221-760d-4bc4-a61b-d718adbc3f30)](https://stickershop.line-scdn.net/sticonshop/v1/sticon/5b35f2c8040ab1d57bc64561/iPhone/031.png?v=5)
+👒 Hi, I’m Harsh<br>👀A Shipwright﹏𓊝﹏ of Code with a passion for designing and front-ending development.<br>🌱Currently,Mastering ReactJS, one line at a time, to become a Yonko of Code.<br>💞️Collaborating on an Integrated Smart Parking System, a treasure to revolutionize parking.<br>🧭 How to reach me.... Don't Need It.<br>😄  Pronouns: Walmart/Alibaba (because why not, right?)<br>⚡Fun fact: Coding with the dark power of the Devil Fruit ❦︎, debugging reality one line at a time. Searching for the One Piece of code to change the world!<br>![image](https://github.com/user-attachments/assets/8b7782d9-1d70-4226-8258-8ca2b8ea0d7a)
+
 
 
 ## 🌐 Socials:
